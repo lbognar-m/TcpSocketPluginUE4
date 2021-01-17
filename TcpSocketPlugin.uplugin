@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "TCP Socket Plugin",
+	"Description": "Tcp Socket Plugin facilitates communication with a TCP server purely in blueprints.",
+	"Category": "Networking",
+	"CreatedBy": "MisterSippi",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"EngineVersion" : "4.25.0",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "TcpSocketPlugin",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen"
+		}
+	]
+}
